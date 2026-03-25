@@ -36,7 +36,6 @@ I am a Computer Vision Engineer fresher from Pune, passionate about building rea
 - 🔭 I'm currently working on **computer vision projects for real-world deployment**
 - 🌱 I'm currently learning **AI, LangChain and edge deployment**
 - 👯 I'm looking to collaborate on **computer vision and deep learning projects**
-- 💬 Ask me about **PyTorch, YOLOv8, Transfer Learning and OpenCV**
 - 📫 How to reach me: **suryawanshisahil585@gmail.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I built a 94% accurate image classifier with only 275 training images using transfer learning**
