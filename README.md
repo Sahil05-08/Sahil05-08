@@ -1,6 +1,9 @@
 # Hi there 👋 I am Sahil Suryawanshi
+
+
 #### About Me
 I am a Computer Vision Engineer fresher from Pune, passionate about building real-world AI systems using deep learning and computer vision. I focus on deploying end-to-end ML solutions — from training models to building web applications. Currently exploring edge AI deployment and building towards a career in AI/ML and robotics.
+
 ---
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -17,9 +20,11 @@ I am a Computer Vision Engineer fresher from Pune, passionate about building rea
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ---
+
 ## 📊 GitHub Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Sahil05-08&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil05-08&theme=dark&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil05-08&layout=compact&theme=dark&hide_border=true)
 ---
 - 🔭 I'm currently working on **computer vision projects for real-world deployment**
@@ -29,10 +34,12 @@ I am a Computer Vision Engineer fresher from Pune, passionate about building rea
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I built a 94% accurate image classifier with only 275 training images using transfer learning**
 ---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/sahil585)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Sahil05-08)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suryawanshisahil585@gmail.com)
+
 ---
 
 
