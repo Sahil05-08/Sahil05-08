@@ -30,11 +30,12 @@ I am a Computer Vision Engineer fresher from Pune, passionate about building rea
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sahil05-08&show_icons=true&theme=dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sahil05-08&theme=github_dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil05-08&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sahil05-08&layout=compact&theme=dark&hide_border=true)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sahil05-08&theme=github_dark)
 
 ---
 - 🔭 I'm currently working on **computer vision projects for real-world deployment**
