@@ -18,7 +18,6 @@ I am a Computer Vision Engineer fresher from Pune, passionate about building rea
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logo=gradio&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-7B48CC?style=flat&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
@@ -31,9 +30,11 @@ I am a Computer Vision Engineer fresher from Pune, passionate about building rea
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Sahil05-08&show_icons=true&theme=dark&hide_border=true)
+![Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sahil05-08&show_icons=true&theme=dark&hide_border=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sahil05-08&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil05-08&layout=compact&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sahil05-08&layout=compact&theme=dark&hide_border=true)
 
 ---
 - 🔭 I'm currently working on **computer vision projects for real-world deployment**
